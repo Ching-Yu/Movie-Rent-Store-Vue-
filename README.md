@@ -1,6 +1,12 @@
 # vue-cli-shop
 
-> A Vue.js project
+電影租借網後端頁面
+https://ching-yu.github.io/MovieRent-BackEnd/#/login
+
+帳號:zxcv4695152526@gmail.com
+密碼:yu3345678
+
+請不要隨意更改內容~謝謝。
 
 ## Build Setup
 
